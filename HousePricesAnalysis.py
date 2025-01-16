@@ -1,4 +1,4 @@
-# Using numPy to provide descriptive statistics on a large dataset
+# Using numPy to provide descriptive statistics on a large dataset (2,000 values)
 import numpy as np
 import matplotlib.pyplot as plt
 
